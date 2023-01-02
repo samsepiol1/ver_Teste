@@ -2,51 +2,51 @@
   "experience": [
     {
       "id": 0,
-      "link": "https://www.8secondz.com/",
-      "company": "8secondz",
-      "title": "Creative Lead - Web & App Teams",
-      "dateFrom": "June 2020",
-      "dateTo": "July 2021",
+      "link": "https://www.outgo.com.br",
+      "company": "Outgo",
+      "title": "Estagiário de Desenvolvimento Web",
+      "dateFrom": "Setembro 2021",
+      "dateTo": "Abril 2021",
       "info": [
-        "Responsible for web team front-end development and design",
-        "Led in app UI/UX & company wide creative media content"
+        "Desenvolvimento web utilizando as tecnologias: Ruby on Rails, Angular e Ionic",
+         "Produção de testes automatizado utilizando Selenium com Python",
+          "Desenvolvimento Android com a linguagem Java, debbuing",
+          "Também atuei no setor de analise de segurança na identificação de transações fraudulentas na plataforma e também na pesquisa de tecnologias para segurança dos sistemas web e mobile"
       ],
-      "stack": ["Vue.js", "Nuxt.js", "Node.js", "AWS"],
+      "stack": ["Ruby on Rails", "Angular", "Python", "Ionic"],
       "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
-      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+      "colourPrimary": "linear-gradient(to bottom, #FF0000, #FFFFFF)",
+      "colourSecondary": "linear-gradient(to bottom, #FF0000, #FF0000)"
     },
     {
       "id": 1,
-      "link": "https://www.psykinetic.com",
-      "company": "Psykinetic",
-      "title": "Immersive Tech & Web Developer",
-      "dateFrom": "August 2020",
-      "dateTo": "Current",
+      "link": "https://www.laniaq.com",
+      "company": "Laniaq",
+      "title": "Engenheiro de Software",
+      "dateFrom": "Outubro 2022",
+      "dateTo": "Novembro 2022",
       "info": [
-        "Developing VR application with UE4 and C++ for Oculus Quest",
-        "Web design & development of web platform using wix"
+        "Responsável pela estruturação da equipe de desenvolvimento da empresa e pela arquitetura dos fluxos de desenvolvimento e produção de software's proprietários. Através de pesquisa e desenvolvimento foi possível orquestrar um rascunho e adotar novas tecnologias para primeira equipe de desenvolvimento. Produção de documentação e identificação de pontos falhos na segurança informacional, estruturação do padrão de qualidade"
       ],
-      "stack": ["C++", "UE4", "VR", "Web Design"],
+      "stack": ["Javascript", "UML", "ERP", "React"],
       "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
-      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+      "colourPrimary": "linear-gradient(to bottom, #993399, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #993399, #1e3470)"
     },
     {
       "id": 2,
-      "link": "https://www.cactuscan.com",
-      "company": "CactusCan",
-      "title": "Creative Lead",
-      "dateFrom": "2016",
-      "dateTo": "Current",
+      "link": "https://www.metropoledigital.ufrn.br/portal/",
+      "company": "UFRN",
+      "title": "Bolsista Pesquisador",
+      "dateFrom": "Junho 2021",
+      "dateTo": "Setembro 2021",
       "info": [
-        "Co-founding CactusCan in 2015 has led to many exciting projects with incredible customers.",
-        "Web design, marketing, media and customer engagement."
+       "Desenvolvedor back end responsável pela manutenção do código utilizando a linguagem de programação Java e o framework Spring. Auxiliei na produção da documentação de um dos sistemas da Policia Rodoviária Federal usado a nível nacional para a garantia da segurança nacional"
       ],
-      "stack": ["React", "Marketing", "Design", "UI/UX"],
+      "stack": ["Java", "RabbitMQ", "React", "SpringBoot"],
       "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
-      "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
+      "colourPrimary": "linear-gradient(to bottom, #006AC7 , #FFFFFF)",
+      "colourSecondary": "linear-gradient(to bottom, #FFFFFF, #FFFFFF)"
     }
   ]
 }

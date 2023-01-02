@@ -8,7 +8,7 @@ import Typewriter from 'typewriter-effect'
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
-import profile from '../../images/matt.png'
+import profile from '../../images/lucas.png'
 import linkedin from '../../images/social/linkedin.png'
 
 const Home = () => {
@@ -26,7 +26,7 @@ const Home = () => {
               onLoad={() => setImageLoaded(true)}
             />
             <h1 className="greeting-text">
-              Hi, I'm <span className="name">Matthew Jigalin</span>.{' '}
+              Olá, me chamo <span className="name">Lucas Matheus</span>.{' '}
               <span className="wave-emoji" role="img" aria-label="waving hand">
                 👋
               </span>
@@ -35,10 +35,10 @@ const Home = () => {
               <Typewriter
                 options={{
                   strings: [
-                    'I like to design things.',
-                    'I love learning new tech.',
-                    'I love meeting new people.',
-                    'I create unique digital experiences.',
+                    '"Não creio que haja uma emoção mais intensa para um inventor do que ver suas criações funcionando" - Nikola Tesla',
+                    'Gosto de Aprender novas tecnologias',
+                    'Para tornar o mundo mais seguro e igulitário',
+                    'Hacking, Development, Research, Engineering',
                   ],
                   autoStart: true,
                   loop: true,
@@ -51,7 +51,7 @@ const Home = () => {
             <Bounce cascade>
               <div className="links">
                 <a
-                  href="https://www.linkedin.com/in/mjigalin/"
+                  href="https://www.linkedin.com/in/lucas-matheus-3809aa121/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

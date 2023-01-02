@@ -110,34 +110,7 @@ const ContactForm = () => {
         action="https://formspree.io/mvolplar"
         method="POST"
       >
-        <TextField
-          className={classes.email}
-          type="email"
-          name="email"
-          label="Email"
-          value={emailText}
-          onChange={handleEmailChange}
-          variant="filled"
-        />
-        <TextField
-          className={classes.message}
-          type="text"
-          name="message"
-          label="Message"
-          value={messageText}
-          onChange={handleMessageChange}
-          multiline
-          rows="5"
-          variant="filled"
-        />
-        {status === 'SUCCESS' ? (
-          <p className="email-success">Thanks!</p>
-        ) : (
-          <Button className={classes.submit} type="submit" variant="contained">
-            Submit
-          </Button>
-        )}
-        {status === 'ERROR' && <p>Ooops! There was an error.</p>}
+      
       </form>
     </div>
   )
